@@ -1,4 +1,3 @@
-import React from 'react'
 import RoundedButtonSm from '../components/RoundedButtonSm'
 import WelcomeFall from '../utils/WelcomeFall'
 

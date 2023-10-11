@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function LastScreen() {
     return (
         <div className='lastscreen screen rel'>
